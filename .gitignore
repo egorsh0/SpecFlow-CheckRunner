@@ -3,3 +3,10 @@
 ################################################################################
 
 /CheckRunner/.vs/CheckRunner/DesignTimeBuild
+/CheckRunner/.vs/CheckRunner/v15
+/CheckRunner/.vs/config
+/CheckRunner/CheckRunner/bin/Debug
+/CheckRunner/CheckRunner/obj
+/CheckRunner/CheckRunner/SpecFlowFeature.feature.cs
+/CheckRunner/CheckRunner.Steps/bin/Debug/netstandard2.0
+/CheckRunner/CheckRunner.Steps/obj
